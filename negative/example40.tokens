@@ -1,1 +1,1 @@
-lparen("(") lparen("(") variable("HiUc") pow("^") lparen("(") lparen("(") float("50.0315") rparen(")") rparen(")") times("*") lparen("(") lparen("(") float("2.5") rparen(")") rparen(")") plus("+") float("6") rparen(")") 
+variable("fadC") assign(":=") variable("MAdact") semi(";") variable("fa") assign(":=") variable("Mt") plus("+") variable("lrdv") semi(";") variable("Areic") variable("Aag") 

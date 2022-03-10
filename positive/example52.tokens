@@ -1,1 +1,0 @@
-variable("maD") plus("+") lparen("(") float("50.0") rparen(")") divide("/") lparen("(") minus("-") float("5.14113") times("*") plus("+") float("3.64159") times("*") variable("WcscNt") divide("/") float("2") rparen(")") 

@@ -1,1 +1,5 @@
-R223 * 6 * ( 1.5 * 6.64019 2 1.1 ^ -1 *** aEcg ) 
+ for AteCEt 1 to 0 do
+ 
+nAgt:= faSalteta
+   done
+   

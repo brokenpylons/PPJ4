@@ -1,1 +1,1 @@
-lparen("(") lparen("(") variable("Woss") rparen(")") 
+variable("AOkthl") assign(":=") assign(":=") float("10") 

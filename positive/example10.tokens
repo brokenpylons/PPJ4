@@ -1,1 +1,1 @@
-float("3") times("*") variable("RLU1") 
+write("WRITE") float("1") 

@@ -1,1 +1,0 @@
-variable("vcrs") times("*") variable("miD") lparen("(") float("5") times("*") float("417549") rparen(")") 

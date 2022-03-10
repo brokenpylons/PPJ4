@@ -1,1 +1,5 @@
-GasE / Gcrget + 50.64003 * ( 4.6 + 167549 * +WaD)
+H:=-WiCCht;
+for Wieui := fadCE to M do
+ WRITE -WiRC
+ done
+

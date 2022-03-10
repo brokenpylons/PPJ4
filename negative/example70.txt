@@ -1,1 +1,5 @@
- meUtN + 5.5 + 4.64003 - 3 * ( 2.10053) 307549 (5 207549 + +1 * g223)
+ WRITE 0;
+  Ar := 0 + ntCiE;;
+   for MmRv:=0 to HvRSl do
+      s:=10
+ done

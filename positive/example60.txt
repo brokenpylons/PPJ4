@@ -1,1 +1,5 @@
--( GLc + -( m1 * rarte ) * 5 ) * virth + ( War + 3) + -5.1 
+ AOdSh := F;
+    for AOe := ACdCl * 1 to A do
+WRITE MOk
+ 
+done
