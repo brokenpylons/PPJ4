@@ -9,7 +9,7 @@ declare -r path=$(dirname $(realpath "$0"))
 
 declare -i err=0
 
-for file in "$path"/positive/example{3..100}.txt
+for file in "$path"/positive/example{0..1000..10}.txt
 do
     echo "$file"
     cat "$file"
@@ -24,7 +24,7 @@ do
     fi
 done
 
-for file in "$path"/negative/example{4..100}.txt
+for file in "$path"/negative/example{0..1000..10}.txt
 do
     echo "$file"
     cat "$file"
